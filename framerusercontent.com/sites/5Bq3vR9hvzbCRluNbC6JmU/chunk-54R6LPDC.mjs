@@ -1,0 +1,2 @@
+function t(e,a){return{description:"Aniket, the Cloud Security and DevSecOps Professional for India \u{1F1EE}\u{1F1F3}",favicon:"https://framerusercontent.com/assets/mdKMhH3CBl8XJuPrdQVbPmm9IiA.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/nvkWPCZzqFrLKQytOvI2Xjm0i2c.jpg",title:"Aniket's Portfolio"}}export{t as a};
+//# sourceMappingURL=chunk-54R6LPDC.mjs.map

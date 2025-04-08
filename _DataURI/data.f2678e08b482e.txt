@@ -1,0 +1,1 @@
+chrome-extension://cfnpidifppmenkapgihekkeednfoenal/content/searchAnalyzer.js
