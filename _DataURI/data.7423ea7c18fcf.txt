@@ -1,1 +1,0 @@
-chrome-extension://cfnpidifppmenkapgihekkeednfoenal/content/antiphishing.js

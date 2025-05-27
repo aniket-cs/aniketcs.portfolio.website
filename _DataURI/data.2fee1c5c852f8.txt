@@ -1,1 +1,0 @@
-chrome-extension://ailoabdmgclmfmhdagmlohpjlbpffblp/cs-isolated-world.bundle.js
